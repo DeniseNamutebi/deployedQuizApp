@@ -1,0 +1,93 @@
+.page{
+    display: flex;
+    justify-content: space-evenly;
+    font-family: 'Space Mono', monospace;
+
+}
+
+
+.page-container{
+    background-color:
+/*#20253f*/ black;
+    border-radius: 20px;
+    width: 860px;
+    height: 512px;
+    margin: 40px;
+    display: flex;
+    flex-direction: column;
+    text-align: center;
+    justify-content: center;
+
+}
+
+.page-container h1{
+    font-family: 'Press Start 2P', cursive;
+    font-size: 70px;
+   /* background: -webkit-linear-gradient( #f19f19, #f7d33f);
+    -webkit-background-clip: text;
+    -webkit-text-fill-color: transparent;
+   -webkit-text-stroke-width: 2px;
+   -webkit-text-stroke-color:black;*/
+    text-shadow: 4px 4px   #f19f19;
+    
+  
+}
+
+.page-container h2{
+    color: white;
+    text-shadow: 1px 1px   #f19f19;
+
+}
+
+.page-container p{
+
+    color: white;
+}
+
+/*
+.button-style{
+    justify-content: center;
+    border: 1px solid black;
+    padding: 14px 40px;
+    background-color:#E2E2E2;
+    box-shadow:5px 5px 0 rgb(0, 0, 0, 0.2);
+    font-family:  'Amatic SC', cursive;
+    font-size: 40px;
+    font-weight: 200;
+}*/
+
+.play-button-container{
+    text-align: center;
+    margin-top: 20px;
+}
+
+.nav-link{
+    color: goldenrod;
+    font-family: 'Press Start 2P', cursive;
+    text-decoration: none;
+    text-shadow: 1px 2px   #f19f19;
+    
+}
+
+
+@keyframes blinkingText{
+    0%{     color: #fff;
+            border: 1px solid blue; 
+            border-radius: 4px;
+            padding: 5px; }
+    49%{    color: #fff;
+            border: 1px solid blue; 
+            border-radius: 4px;
+            padding: 5px; }
+    60%{    color: transparent; }
+    99%{    color:transparent;  }
+    100%{   color: #fff;   
+            border: 1px solid blue; 
+            border-radius: 4px;
+            padding: 5px; }
+    
+}
+
+span{
+    color: goldenrod;
+}

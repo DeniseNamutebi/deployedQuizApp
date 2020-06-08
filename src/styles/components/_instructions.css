@@ -1,0 +1,14 @@
+ #instruct-title{
+     color: white;
+     font-size: 50px;
+ }
+
+ #instruct-title p{
+   margin-top: 30px;
+   margin-bottom: 20px;
+ }
+
+a:hover{
+    animation:blinkingText 1.2s infinite;
+}
+

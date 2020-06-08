@@ -1,0 +1,151 @@
+[
+{   
+"id": 1,
+"question": "I was born in Honolulu, Hawaii, in 1961. I am a graduate of Columbia University and Harvard Law School. I ran for the United States Senate in 2004.",
+"A": "George Bush",
+"B": "Jimmy Carter",
+"C": "Donald Trump",
+"D": "Barack Obama",
+"answer": "Barack Obama"
+},
+
+{
+"id": 2,    
+"question": "I have been nominated for an Academy Award six times since 1994, but finally won in 2016 for my staring role in ‘The Revenant’. Who am I? ",
+"A": "Denzel Washington",
+"B": "Leonardo Di Caprio",
+"C": "Phil Mitchell",
+"D": "Jim Carrey",
+"answer": "Leonardo Di Caprio"
+},
+
+{
+"id": 3,   
+"question": "I was born in Liverpool in 1940 and died in 1980. My first band was called ‘The Quarrymen’. In 2002, a BBC poll of the 100 Greatest Britons ranked me 8th.",
+"A": "Adele",
+"B": "Mick Jagger",
+"C": "Robbie Williams",
+"D": "John Lennon",
+"answer": "John Lennon"
+},
+
+{
+"id": 4,    
+"question": "You see 23 Olympic gold medals framed on my wall, and you realise that I’m a  famous athlete. Who is it?",
+"A": "Mark Spitz",
+"B": "Michael Phelps",
+"C": "Matt Biondi",
+"D": "Tiger Woods",
+"answer": "Michael Phelps"
+},
+
+{
+"id": 5,    
+"question": "I am a Swiss professional tennis player who has won 20 Grand Slam titles during my career. Who am I?",
+"A": "Rafael Nadal",
+"B": "Roger Federger",
+"C": "Andy Murray",
+"D": "Novak Djokovic",
+"answer": "Roger Federger"
+},
+
+{
+"id": 6,   
+"question": "I am a character in “the Lord of the Rings”, who finds a magic ring left behind by my Uncle Bilbo Baggins. Who am I?",
+"A": "Frodo Baggins",
+"B": "Drogo Baggins",
+"C": "Bungo Baggins",
+"D": "Baggins Baggins",
+"answer": "Frodo Baggins"
+},
+
+{
+ "id": 7,   
+"question": "I was born in Ulm, in Germany, in 1876. In 1895 I moved to Switzerland to study and in 1921 I won the Nobel Prize for Physics. I emigrated to the USA in 1933.",
+"A": "Albert Einstein",
+"B": "Marie Curie",
+"C": "Isaac Newton",
+"D": "Galileo Galilei",
+"answer": "Albert Einstein."
+},
+
+{
+"id": 8,
+"question": "I am the shorter one of the iconic duo that take an annual trip to the Australian jungle, and love to have a Saturday Night Takeaway.",
+"A": "Declan Donnelly",
+"B": "Piers Morgan",
+"C": "Fiona Bruce",
+"D": "James May",
+"answer": "Declan Donnelly"
+},
+
+{
+"id": 9,    
+"question": "I was born in 1981 and my real Christian name is Kelendria. I found fame in the American group ‘Destiny’s child’ and in 2011 I became known for my role as a judge on the UK X Factor.",
+"A": "Beyonce",
+"B": "Jermey Clarkson",
+"C": "Jeremy Clarkson",
+"D": "Kelly Rowland",
+"answer": "Kelly Rowland"
+},
+ 
+{
+"id": 10,    
+"question": "I am a Swiss professional tennis player who has won 20 Grand Slam titles during my career. Who am I?",
+"A": "Rafael Nadal",
+"B": "Roger Federger",
+"C": "Andy Murray",
+"D": "Sally Pearson",
+"answer": "Roger Federger"
+},
+
+{
+"id": 11,    
+"question": "I am a Dutch painter who is one of the most influential and famous figures in the history of modern art. My notable works include “The Potato Eaters”, “The Starry Night”, and “Wheatfield with Crows”. Who am I?",
+"A": "Auguste Rodin",
+"B": "Vincent Van Gogh",
+"C": "Pablo Picasso",
+"D": "Denise Namutebi",
+"answer": "Vincent Van Gogh"
+},
+
+{
+"id": 12,    
+"question": "According to legendary, I am a wizard who is the mentor of King Arthur. Who am I?",
+"A": "Merlin",
+"B": "Gandalf",
+"C": "Magnan",
+"D": "Houdini",
+"answer": "Merlin"
+},
+
+{
+"id": 13,
+"question": "I am an American activist who rejected to relinquish my seat in a bus to a white passenger and kicked off the Civil Rights movement in 1955. Who am I?",
+"A": "Rosa Parks",
+"B": "Oprah Winfrey",
+"C": "Harper Lee",
+"D": "Trevor Noah",
+"answer": "Rosa Parks"
+},
+
+{
+"id": 14,    
+"question": "Created by Ian Fleming, I am a fictional spy working for a Secret Service agent with code number 007. Who am I?",
+"A": "Richard Hannay",
+"B": "James Bond",
+"C": "Adolf Verloc",
+"D": "Tom Cruise",
+"answer": "Tom Cruise"
+},
+
+{
+"id": 15,   
+"question": "I am a prominent author who created Jean-Louise Finch, Miss Maudie, and Miss Dubose in “To Kill A Mockingbird”, which helped me win a Pulitzer prize in 1961. Who am I?",
+"A": "Jane Austen",
+"B": "Harper Lee",
+"C": "J.K Rowling",
+"D": "Jacqueline Wilson", 
+"answer": "Harper Lee"
+}
+]

@@ -1,0 +1,38 @@
+.page-container h1{
+    font-family: 'Press Start 2P', cursive;
+    font-size: 70px;
+   /* background: -webkit-linear-gradient( #f19f19, #f7d33f);
+    -webkit-background-clip: text;
+    -webkit-text-fill-color: transparent;
+   -webkit-text-stroke-width: 2px;
+   -webkit-text-stroke-color:black;*/
+    text-shadow: 4px 4px   #f19f19;
+  
+  
+}
+
+.title{
+    background: -webkit-linear-gradient( #f19f19, #f7d33f);
+    padding-left: 10px;
+}
+
+
+ul li{
+list-style: none;
+padding: 15px;
+}
+
+#item-1{
+margin-right: 148px;
+}
+
+#item-2{
+   margin-right: 26px;
+}
+
+#back-button a:hover{
+    animation:blinkingText 1.2s infinite;
+}
+
+
+

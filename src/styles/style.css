@@ -1,0 +1,5 @@
+@import 'base.css';
+@import './components/_home.css';
+@import './components/_instructions.css';
+@import './components/_play.css';
+@import './components/_summary.css'
