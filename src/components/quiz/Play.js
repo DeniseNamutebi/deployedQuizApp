@@ -154,7 +154,7 @@ class Play extends Component {
               <span>1 of 15</span>
           </div> 
           <div className="questions-container">
-              <h2>{currentQuestion.question}</h2>
+              <h2 style = {{ padding : 8 }}>{currentQuestion.question}</h2>
                     <div className="options-container">
                         <p onClick={this.optionClick} className="option">{currentQuestion.A}</p>
                         <p onClick={this.optionClick}  className="option">{currentQuestion.B}</p>
